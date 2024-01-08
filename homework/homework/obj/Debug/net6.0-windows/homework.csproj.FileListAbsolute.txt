@@ -1,0 +1,16 @@
+D:\visual programminhg\homework\homework\bin\Debug\net6.0-windows\homework.exe
+D:\visual programminhg\homework\homework\bin\Debug\net6.0-windows\homework.deps.json
+D:\visual programminhg\homework\homework\bin\Debug\net6.0-windows\homework.runtimeconfig.json
+D:\visual programminhg\homework\homework\bin\Debug\net6.0-windows\homework.dll
+D:\visual programminhg\homework\homework\bin\Debug\net6.0-windows\homework.pdb
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.Form1.resources
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.csproj.GenerateResource.cache
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.AssemblyInfoInputs.cache
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.AssemblyInfo.cs
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.csproj.CoreCompileInputs.cache
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.dll
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\refint\homework.dll
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.pdb
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\homework.genruntimeconfig.cache
+D:\visual programminhg\homework\homework\obj\Debug\net6.0-windows\ref\homework.dll
